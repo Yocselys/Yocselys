@@ -1,7 +1,6 @@
 # 👋 Hola, soy Yocsy 💜
-- 👩🏻‍💻Programadora y amante de la tecnología✨
-- Me gusta aprender algo nuevo y aplicarlo en proyectos
-- Esta es la razón por la que puedo manejar el trabajo con muchas tecnologías y no tengo miedo de asumir tareas nuevas y complejas que requieren obtener nuevas habilidades.
+- 👩🏻‍💻Desarrollo web Front-end, con pasión por la tecnología, investigación y aprendizaje ✨
+- Sigo aprendiendo puliendo mis habilidades y conocimiento en las tegnologís requeridas para ser una buena desarrolladora Front.
 ---
 
 ### 🔗 Connect with me
