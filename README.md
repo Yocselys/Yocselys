@@ -2,7 +2,7 @@
 👩🏻‍💻 Desarrolladora web Front-end en formación, con una fuerte pasión por la tecnología, la investigación y el aprendizaje constante.
 
 📚 Soy bibliotecóloga con visión tecnológica, enfocada en aplicar herramientas digitales y desarrollo web al mundo de las bibliotecas. 
-Mi objetivo es crear soluciones innovadoras que mejoren el acceso, la organización y la experiencia de los usuarios en el entorno de las Bibliotecas.
+Mi objetivo es crear soluciones innovadoras que mejoren el acceso, la organización y la experiencia de los usuarios.
 
 💡 Actualmente me encuentro practicando y aprendiendo tecnologías clave del desarrollo Front-end para integrarlas en proyectos relacionados con la gestión de información, acceso al conocimiento y diseño de páginas web centradas en UX.
 
