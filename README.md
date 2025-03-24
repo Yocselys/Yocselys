@@ -1,11 +1,14 @@
 👋 ¡Hola! Soy Yocsy 💜
-👩🏻‍💻 Desarrolladora web Front-end, apasionada por la tecnología, la investigación y el aprendizaje constante ✨
+👩🏻‍💻 Desarrolladora web Front-end en formación, con una fuerte pasión por la tecnología, la investigación y el aprendizaje constante.
 
-Bibliotecóloga con una visión tecnológica, actualmente en proceso de práctica y formación para potenciar mis habilidades y conocimientos en las tecnologías clave del desarrollo Front-end, aplicadas al mundo de las bibliotecas 📚💻
+📚 Soy bibliotecóloga con visión tecnológica, enfocada en aplicar herramientas digitales y desarrollo web al mundo de las bibliotecas. 
+Mi objetivo es crear soluciones innovadoras que mejoren el acceso, la organización y la experiencia de los usuarios en el entorno de las Bibliotecas.
 
-¡Ideas, ejercicios y proyectos que aporten a mi crecimiento profesional son más que bienvenidos! 🥰✨
+💡 Actualmente me encuentro practicando y aprendiendo tecnologías clave del desarrollo Front-end para integrarlas en proyectos relacionados con la gestión de información, acceso al conocimiento y diseño de páginas web centradas en UX.
 
-Estudiante en Educación IT 🤓🌟
+🤝 ¡Ideas, ejercicios y proyectos que aporten a mi desarrollo profesional o al vínculo entre bibliotecas y tecnología son siempre bienvenidos! 🥰✨
+
+🎓 Estudiante en Educación IT, consolidando mi perfil como desarrolladora con una base sólida en HTML, CSS, JavaScript y herramientas modernas del ecosistema web.
 
 ### 🔗 Connect with me
 <p>
