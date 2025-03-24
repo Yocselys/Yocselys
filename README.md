@@ -1,9 +1,11 @@
-# 👋 Hola, soy Yocsy 💜
-- 👩🏻‍💻Desarrollo web Front-end, con pasión por la tecnología, investigación y aprendizaje ✨
-- Actualmente estoy la práctica constante de mis habilidades y conocimiento en las tegnologías requeridas para ser una excelente desarrolladora Front.💪🏽
-- Ideas, ejercicios y proyectos que sumen en mi desarrollo, Bienvenidos sean...🥰🥰
-- Estudiante en Platzi... Nunca pares de aprender 🤓🌟
----
+👋 ¡Hola! Soy Yocsy 💜
+👩🏻‍💻 Desarrolladora web Front-end, apasionada por la tecnología, la investigación y el aprendizaje constante ✨
+
+Bibliotecóloga con una visión tecnológica, actualmente en proceso de práctica y formación para potenciar mis habilidades y conocimientos en las tecnologías clave del desarrollo Front-end, aplicadas al mundo de las bibliotecas 📚💻
+
+¡Ideas, ejercicios y proyectos que aporten a mi crecimiento profesional son más que bienvenidos! 🥰✨
+
+Estudiante en Educación IT 🤓🌟
 
 ### 🔗 Connect with me
 <p>
